@@ -28,7 +28,9 @@ To run the project locally, clone this repository and open the `index.html` file
 bashCopy code
 
 `git clone https://github.com/username/repository.git`
+
 `cd repository`
+
 `open index.html` 
 
 ## 💻 Usage
