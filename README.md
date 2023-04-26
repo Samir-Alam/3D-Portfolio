@@ -17,6 +17,10 @@ A live demo of the application can be found [here](https://d-portfolio-f41f9.web
 
 [2nd Link](https://d-portfolio-f41f9.firebaseapp.com/)
 
+## 👓 Screenshots
+
+![Screenshot of the app](/3d-portfolio.png)
+
 ## 🛠️ Installation
 
 To run the project locally, clone this repository and open the `index.html` file in a web browser.
